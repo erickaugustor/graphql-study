@@ -7,7 +7,7 @@ const typeDefs = `
   }
 `
 
-// Resolvers
+// Resolvers 
 const resolvers = {
   Query: {
     hello() {
